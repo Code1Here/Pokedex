@@ -1,4 +1,4 @@
-Pokedex! A data aggregator for a show most people know -- Pokemon! You begin by opening your pokedex to see a replica of the famous pokeball design with the start button at the clasp, and two famous pokemon. You scroll through the regions, the names of the places centered within each photo of the region. You click any photo and a list of each pokemon (in their shiny form) in the region appears. Depending on their type, their background color appears to match. Lastly, there is an option to choose favorites and see them! 
+Pokedex! A data aggregator for a show most people know -- Pokemon! You begin by opening your pokedex to see a replica of the famous pokeball design with the start button at the clasp, and two famous pokemon. You scroll through the regions, the names of the places centered within each photo of the region. You click any photo and a list of each pokemon (in their shiny form) in the region appears. Depending on their type, their background color appears to match. Lastly, there is an option to choose favorites with a heart and see them in a seperate section in the iPhone app! 
 
 
 
